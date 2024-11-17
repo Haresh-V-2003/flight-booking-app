@@ -1,5 +1,6 @@
 # flight-booking-app
 <br><br>
+A flight booking website made using MERN stack.
 #Video Link: https://drive.google.com/drive/folders/1nY6tEW3lqKEuw5rigFEtVSQs8QTKTc-z
 <br><br>
 ![nm1](https://github.com/user-attachments/assets/bc405fc4-0e83-4af0-af3e-f2a78227b77d)
