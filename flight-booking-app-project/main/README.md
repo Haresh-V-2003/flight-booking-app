@@ -1,2 +1,3 @@
 # Flight-Booking-Website
-Flight booking site using HTML, CSS and JavaScript : https://agitated-yonath-de5489.netlify.app/
+<br>
+Go to flight/index.html and run it to start the application
